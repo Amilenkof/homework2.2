@@ -22,6 +22,6 @@ public class Slytherin extends Hogwarts {
         int secondPupleStats = two.trick + two.ingenuity + two.ambition + two.determination + two.getTrangressionDistance() + two.getPowerOfMagic();
         if (firstPupleStats > secondPupleStats) {
             return  one.nameOfPuple +" статы равны "+firstPupleStats+" лучший ученик, чем "+ two.nameOfPuple+" статы равны "+secondPupleStats;
-        } else return two.nameOfPuple +" статы равны "+secondPupleStats+" лучший ученик, чем "+ one.nameOfPuple+" статы равны "+firstPupleStats;
+        } else return two.nameOfPuple +" статы  равны "+secondPupleStats+" лучший ученик, чем "+ one.nameOfPuple+" статы равны "+firstPupleStats;
     }
 }

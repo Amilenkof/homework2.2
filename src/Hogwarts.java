@@ -28,7 +28,7 @@ public abstract class Hogwarts {
         int twoPupleStats = two.powerOfMagic + two.trangressionDistance;
         if (onePupleStats > twoPupleStats) {
             return  one.nameOfPuple +(" статы равны "+onePupleStats)+" лучший ученик, чем "+ two.nameOfPuple+(" статы равны "+twoPupleStats);
-        } else return two.nameOfPuple +("статы равны "+twoPupleStats)+" лучший ученик, чем "+ one.nameOfPuple+("статы равны "+onePupleStats);
+        } else return two.nameOfPuple +("статы  равны "+twoPupleStats)+" лучший ученик, чем "+ one.nameOfPuple+("статы равны "+onePupleStats);
     }
 
 
