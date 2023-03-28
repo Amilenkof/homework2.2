@@ -37,7 +37,7 @@ public class Main {
         System.out.println(Griffindor.comparePuple(harryPotter, ronWeasley));
         System.out.println(Slytherin.comparePuple(gregoryGoil, drakoMalfoy));
         System.out.println(Ravenclaw.comparePuple(padmePattil, chjoyChang));
-
+        System.out.println(Hufflepuff.comparePuple(zakharyaSmith, justinFinchFlachly));
 
     }
 }

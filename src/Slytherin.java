@@ -14,7 +14,7 @@ public class Slytherin extends Hogwarts {
 
     @Override
     public String toString() {
-        return super.toString() + ", слизеринец ( , хитрость = " + trick + " ,решительность = " + determination + " , амбиции = " + ambition + " ,находчивость = " + ingenuity + ")";
+        return super.toString() + ", слизеринец ( хитрость = " + trick + " ,решительность = " + determination + " , амбиции = " + ambition + " ,находчивость = " + ingenuity + ")";
     }
 
     public static String comparePuple(Slytherin one, Slytherin two) {

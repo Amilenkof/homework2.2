@@ -14,7 +14,7 @@ public class Ravenclaw extends Hogwarts {
 
     @Override
     public String toString() {
-        return super.toString() + ", когтевранец (, знания = " + mind + " ,острый ум = " + witty + " , креативность = " + creative + " ,мудрость= " + smart + ")";
+        return super.toString() + ", когтевранец ( знания = " + mind + " ,острый ум = " + witty + " , креативность = " + creative + " ,мудрость= " + smart + ")";
     }
 
     public static String comparePuple(Ravenclaw one, Ravenclaw two) {
