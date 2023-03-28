@@ -13,7 +13,7 @@ public class Hufflepuff extends Hogwarts {
 
     @Override
     public String toString() {
-        return super.toString() + ", пуффендуец ( , усердие =" + diligence + ", лояльность= " + loyalty + " ,честность= " + honesty + ")";
+        return super.toString() + ", пуффендуец ( усердие =" + diligence + ", лояльность= " + loyalty + " ,честность= " + honesty + ")";
     }
 
     public static String comparePuple(Hufflepuff one, Hufflepuff two) {

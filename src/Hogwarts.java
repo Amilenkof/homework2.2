@@ -20,7 +20,7 @@ public abstract class Hogwarts {
 
     @Override
     public  String toString() {
-        return "Ученик - " + nameOfPuple + " ,Сила магии = " + powerOfMagic + " , дистанция трассгрессии = " + trangressionDistance;
+        return "Ученик - " + nameOfPuple + " , Сила магии = " + powerOfMagic + " , дистанция трассгрессии = " + trangressionDistance;
     }
 
     public static String сomparePuple(Hogwarts one, Hogwarts two) {
