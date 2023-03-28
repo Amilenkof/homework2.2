@@ -36,6 +36,7 @@ public class Main {
         System.out.println("Задание 3.Сравнение учеников факультета");
         System.out.println(Griffindor.comparePuple(harryPotter, ronWeasley));
         System.out.println(Slytherin.comparePuple(gregoryGoil, drakoMalfoy));
+        System.out.println(Ravenclaw.comparePuple(padmePattil, chjoyChang));
 
 
     }
