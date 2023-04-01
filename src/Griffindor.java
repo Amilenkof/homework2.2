@@ -21,7 +21,7 @@ public class Griffindor extends Hogwarts {
         if (firstPupleStats > secondPupleStats) {
             return one.nameOfPuple + " статы равны " + firstPupleStats + " лучший ученик, чем " + two.nameOfPuple + " статы равны " + secondPupleStats;
         } else
-            return two.nameOfPuple + " статы равны " + secondPupleStats + " лучший ученик, чем " + one.nameOfPuple + " статы равны " + firstPupleStats;
+            return two.nameOfPuple + " статы  равны " + secondPupleStats + " лучший ученик, чем " + one.nameOfPuple + " статы равны " + firstPupleStats;
 
     }
 }

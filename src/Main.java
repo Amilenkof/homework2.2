@@ -33,7 +33,7 @@ public class Main {
         System.out.println(Hogwarts.сomparePuple(hermioneGranger, sedrickDiggory));
         System.out.println(Hogwarts.сomparePuple(drakoMalfoy, padmePattil));
 
-        System.out.println("Задание 3.Сравнение учеников факультета");
+        System.out.println("Задание 3.Сравнение  учеников факультета");
         System.out.println(Griffindor.comparePuple(harryPotter, ronWeasley));
         System.out.println(Slytherin.comparePuple(gregoryGoil, drakoMalfoy));
         System.out.println(Ravenclaw.comparePuple(padmePattil, chjoyChang));
